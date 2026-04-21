@@ -86,5 +86,4 @@ The implementation successfully reduces **dynamic power consumption** while main
 ---
 
 ## 👨‍💻 Author
-
-harshit joshi , ayush rajak 
+Ayush Rajat,Harshit Joshi,Richa Datt Pradhan, Dhanraj Prajapati
